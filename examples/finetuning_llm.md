@@ -5,7 +5,6 @@ parent: Examples
 nav_order: 4
 ---
 
-
 <h1 align="center">
   <a href="https://uptrain.ai">
     <img width="300" src="https://user-images.githubusercontent.com/108270398/214240695-4f958b76-c993-4ddd-8de6-8668f4d0da84.png" alt="uptrain">

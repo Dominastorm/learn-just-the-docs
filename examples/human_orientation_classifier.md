@@ -5,6 +5,14 @@ parent: Examples
 nav_order: 2
 ---
 
+<h1 align="center">
+  <a href="https://uptrain.ai">
+    <img width="300" src="https://user-images.githubusercontent.com/108270398/214240695-4f958b76-c993-4ddd-8de6-8668f4d0da84.png" alt="uptrain">
+  </a>
+</h1>
+
+<h1 style="text-align: center;">Drift Detection: Human Orientation Classifier</h1>
+
 ## UpTrain: Measuring data drift in production data for automated retraining of ML model
 
 In `run.ipynb`, we consider a binary classification task of human orientation while exercising. That is, given the location of 17 key-points of the body such as the nose, shoulders, wrist, hips, ankles, etc., the model tries to predict whether the person is in a horizontal (see image 1 below) or a vertical (see image 2 below) position.
