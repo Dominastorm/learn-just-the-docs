@@ -7,3 +7,13 @@ url: https://https://dominastorm.github.io/
 logo: "/assets/images/uptrain-logo.png"
 
 favicon_ico: "/assets/images/favicon.ico"
+
+color_scheme: dark
+
+# Aux links for the upper right navigation
+aux_links:
+  "UpTrain on GitHub":
+    - "//github.com/uptrain-ai/uptrain"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
